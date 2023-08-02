@@ -1,7 +1,6 @@
 # define the dataset file
 DATA_FNAME = "fra.txt"
 
-# define the batch size
 BATCH_SIZE = 512
 
 # define the vocab size for the source and the target
